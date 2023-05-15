@@ -2,18 +2,19 @@
 This guide will provide you with instructions on how to use the Shiny app and set up the necessary environment. The Shiny app consists of multiple scripts that need to be executed in a specific order. Please follow the steps below to get started.
 
 ## To install the package
-
+```r
 library(devtools)
 
 install_github("wajahat16079/ZildePack")
-
+```
 ## To load the Package
+```r
 library(Zilde)
-
+```
 ## To run the app
-
+```r
 runMyApp()
-
+```
 The Shiny app will progressively load and display a map, itinerary, and statistical tables for testing and comparing the heuristics used.
 	
 ## Using the Shiny App
