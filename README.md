@@ -1,5 +1,5 @@
 # Shiny App User Guide
-This guide will provide you with instructions on how to use the Shiny app and set up the necessary environment. The Shiny app consists of multiple scripts that need to be executed in a specific order. Please follow the steps below to get started.
+This guide will provide you with instructions on how to use the Shiny app and set up the necessary environment. Please follow the steps below to get started.
 
 ## To install the package
 ```r
